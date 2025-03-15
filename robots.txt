@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sa-thompson.github.io/sitemap.xml
